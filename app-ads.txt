@@ -2,7 +2,7 @@ google.com, pub-4961966153365492, DIRECT, f08c47fec0942fa0
 google.com, pub-9218937854211488, DIRECT, f08c47fec0942fa0
 
 #AppBroda Start
-${first_name}
+appbroda.com, 112, DIRECT
 google.com, pub-3184487253168181, RESELLER, f08c47fec0942fa0
 google.com, pub-7839649756834603, DIRECT, f08c47fec0942fa0
 google.com, pub-3184487253168181, DIRECT, f08c47fec0942fa0
@@ -707,4 +707,3 @@ rubiconproject.com, 13510, RESELLER
 triplelift.com, 11793, DIRECT, 6c33edb13117fd86
 triplelift.com, 11793-EB, DIRECT, 6c33edb13117fd86
 #AppBroda End
-

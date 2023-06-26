@@ -3,6 +3,8 @@ google.com, pub-9377926526874807, DIRECT, f08c47fec0942fa0
 google.com, pub-7996006950744275, DIRECT, f08c47fec0942fa0
 
 google.com, pub-9216782558277363, DIRECT, f08c47fec0942fa0
+appbroda.com, undefined, DIRECT
+google.com, pub-3184487253168181, RESELLER, f08c47fec0942fa0
 appbroda.com, 1135, DIRECT
 google.com, pub-8049894195330131, DIRECT, f08c47fec0942fa0
 
